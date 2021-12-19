@@ -8,7 +8,7 @@
 
 CLIENTE=$1
 FILIAL=$2
-DIRBASE="/var/www/backup/"
+DIRBASE="/var/www/backup/" 
 
 ## PT - Isso foi criado pois alguns clientes especificoq que tem mais de um servidor(filial)
 ## EN - This was created because some customers specify that it has more than one server (branch)
